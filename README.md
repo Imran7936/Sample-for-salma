@@ -1,0 +1,1 @@
+This dataset contains information on the relationship between work experience (in months) and corresponding monthly salaries (in thousand dollars) of employees across various industries. It is designed to help data enthusiasts and aspiring data scientists practice linear regression techniques by analyzing and modeling salary predictions based on experience.
